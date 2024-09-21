@@ -35,3 +35,10 @@ coba(data1,data2)
 // Perkalian
 console.log(5*5);
 console.log(5+5);
+
+function perkalian(x, y) {
+return x * y;
+return x / y;
+return x + y;
+return x - y;
+}
